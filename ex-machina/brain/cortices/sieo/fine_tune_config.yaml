@@ -1,0 +1,3 @@
+base_model: ex-machina-foundation-v1
+adapter_type: lora
+rank: 32

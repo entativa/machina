@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  postgres:
+    image: postgres:15
+  redis:
+    image: redis:7
+  kafka:
+    image: confluentinc/cp-kafka:7.5.0

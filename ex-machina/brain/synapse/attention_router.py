@@ -1,0 +1,2 @@
+class SynapseRouter:
+    pass

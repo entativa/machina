@@ -1,0 +1,2 @@
+class UncertaintyQuantifier:
+    pass
